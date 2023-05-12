@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+
+#main-div{
+    width: 1500px; height: 750px;
+    background-image: url(../img/Untitled\ design\ \(2\).png);
+    margin: auto;
+    float: left;
+}
+
+#white-box{
+    width: 500px; height: 300px; background-color: white;
+    margin: auto;
+    margin-top: 250px;
+}
