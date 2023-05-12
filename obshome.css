@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+#main-div{
+    width: 1350px; height: 700px; background-color: white; margin: auto;
+}
+#title-div{
+    width:inherit; height: 50px; background-color: lightcoral;
+}
+.title{
+    font-size: 30px; color: white; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-left: 550px;
+}
+#title-pic{
+    width: 1350px;
+    height:200px;
+    background-image: url(../img/download.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
